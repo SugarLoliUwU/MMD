@@ -1,6 +1,22 @@
 [
     {
         "ranks": [
+            "Banners1"
+        ],
+        "users": [
+            "『CʜᴜᴘᴀTᴏᴋᴇɴѕ』"
+        ],
+        "groups": [
+            "Banners1"
+        ],
+        "custom_indexes": {
+            "1": [
+                "『CʜᴜᴘᴀTᴏᴋᴇɴѕ』"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
